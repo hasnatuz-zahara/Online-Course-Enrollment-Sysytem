@@ -1,0 +1,7 @@
+CHEM-2301,Chemistry,3.00
+CSE-2323,DLD,3.00
+MATH-2307,Mathematics,3.00
+STAT-2311,Probability And Statistics,2.00
+STAT-2311,Statistics,2.00
+URED-2302,Ured,2.00
+UREL-1106,English,2.00
